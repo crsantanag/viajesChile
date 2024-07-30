@@ -178,6 +178,12 @@ main {
     border-radius:  5px;
 }
 
+#mensaje {
+    max-width: 100%;
+    min-width: 100%;
+    border-radius:  5px;
+}
+
 /* Ajusta caracteristicas del boton "Enviar" del formulario */
 .btn {
     color: white;
